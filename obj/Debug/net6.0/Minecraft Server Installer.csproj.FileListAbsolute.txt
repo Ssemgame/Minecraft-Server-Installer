@@ -1,0 +1,15 @@
+C:\Users\Sam\source\repos\Minecraft Server Installer\Minecraft Server Installer\bin\Debug\net6.0\Minecraft Server Installer.exe
+C:\Users\Sam\source\repos\Minecraft Server Installer\Minecraft Server Installer\bin\Debug\net6.0\Minecraft Server Installer.deps.json
+C:\Users\Sam\source\repos\Minecraft Server Installer\Minecraft Server Installer\bin\Debug\net6.0\Minecraft Server Installer.runtimeconfig.json
+C:\Users\Sam\source\repos\Minecraft Server Installer\Minecraft Server Installer\bin\Debug\net6.0\Minecraft Server Installer.dll
+C:\Users\Sam\source\repos\Minecraft Server Installer\Minecraft Server Installer\bin\Debug\net6.0\Minecraft Server Installer.pdb
+C:\Users\Sam\source\repos\Minecraft Server Installer\Minecraft Server Installer\obj\Debug\net6.0\Minecraft Server Installer.csproj.AssemblyReference.cache
+C:\Users\Sam\source\repos\Minecraft Server Installer\Minecraft Server Installer\obj\Debug\net6.0\Minecraft Server Installer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sam\source\repos\Minecraft Server Installer\Minecraft Server Installer\obj\Debug\net6.0\Minecraft Server Installer.AssemblyInfoInputs.cache
+C:\Users\Sam\source\repos\Minecraft Server Installer\Minecraft Server Installer\obj\Debug\net6.0\Minecraft Server Installer.AssemblyInfo.cs
+C:\Users\Sam\source\repos\Minecraft Server Installer\Minecraft Server Installer\obj\Debug\net6.0\Minecraft Server Installer.csproj.CoreCompileInputs.cache
+C:\Users\Sam\source\repos\Minecraft Server Installer\Minecraft Server Installer\obj\Debug\net6.0\Minecraft Server Installer.dll
+C:\Users\Sam\source\repos\Minecraft Server Installer\Minecraft Server Installer\obj\Debug\net6.0\refint\Minecraft Server Installer.dll
+C:\Users\Sam\source\repos\Minecraft Server Installer\Minecraft Server Installer\obj\Debug\net6.0\Minecraft Server Installer.pdb
+C:\Users\Sam\source\repos\Minecraft Server Installer\Minecraft Server Installer\obj\Debug\net6.0\Minecraft Server Installer.genruntimeconfig.cache
+C:\Users\Sam\source\repos\Minecraft Server Installer\Minecraft Server Installer\obj\Debug\net6.0\ref\Minecraft Server Installer.dll
